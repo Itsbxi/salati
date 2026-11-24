@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AlAdhan calculation method ids; -1 means "let the server choose by location". -->
+    <integer-array name="method_ids">
+        <item>-1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2</item>
+        <item>1</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>13</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>23</item>
+        <item>7</item>
+        <item>12</item>
+        <item>11</item>
+        <item>15</item>
+        <item>14</item>
+        <item>22</item>
+    </integer-array>
+
+    <string-array name="method_names">
+        <item>Automatic (by location)</item>
+        <item>Muslim World League</item>
+        <item>Umm Al-Qura University, Makkah</item>
+        <item>Egyptian General Authority of Survey</item>
+        <item>ISNA (North America)</item>
+        <item>University of Islamic Sciences, Karachi</item>
+        <item>Gulf Region</item>
+        <item>Kuwait</item>
+        <item>Qatar</item>
+        <item>Diyanet, Turkey</item>
+        <item>Dubai</item>
+        <item>JAKIM, Malaysia</item>
+        <item>Tunisia</item>
+        <item>Algeria</item>
+        <item>KEMENAG, Indonesia</item>
+        <item>Morocco</item>
+        <item>Ministry of Awqaf, Jordan</item>
+        <item>Institute of Geophysics, University of Tehran</item>
+        <item>UOIF, France</item>
+        <item>MUIS, Singapore</item>
+        <item>Moonsighting Committee Worldwide</item>
+        <item>Spiritual Administration of Muslims, Russia</item>
+        <item>Lisbon Islamic Community</item>
+    </string-array>
+</resources>

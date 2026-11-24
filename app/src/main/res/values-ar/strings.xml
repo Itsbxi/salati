@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صلاتي</string>
+
+    <string name="fajr">الفجر</string>
+    <string name="sunrise">الشروق</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+    <string name="am">ص</string>
+    <string name="pm">م</string>
+
+    <!-- Main screen -->
+    <string name="next_prayer">الصلاة القادمة</string>
+    <string name="in_time">بعد %1$s</string>
+    <string name="dur_h_m">%1$s س و%2$s د</string>
+    <string name="dur_h">%1$s س</string>
+    <string name="dur_m">%1$s د</string>
+    <string name="settings">الإعدادات</string>
+    <string name="refresh">تحديث الأوقات</string>
+    <string name="prayed_label">صليت</string>
+    <string name="loading_times">جارٍ تحميل أوقات الصلاة… (يلزم الإنترنت أول مرة)</string>
+    <string name="times_unavailable">تعذّر تحديث أوقات الصلاة. تحقق من الإنترنت.</string>
+    <string name="updated_ok">تم تحديث أوقات الصلاة</string>
+    <string name="location_fmt">%1$s، %2$s</string>
+    <string name="hijri_fmt">%1$s %2$s %3$s هـ</string>
+    <string name="warn_notif">الإشعارات متوقفة، لذلك لن يصلك نداء الصلاة.</string>
+    <string name="warn_alarm">اسمح بالمنبّهات الدقيقة ليصلك نداء الصلاة في وقته.</string>
+    <string name="warn_battery">اسمح للتطبيق بالعمل في الخلفية حتى لا يمنع توفير الطاقة نداء الصلاة.</string>
+    <string name="allow">السماح</string>
+    <string name="later">ليس الآن</string>
+
+    <!-- Setup screen -->
+    <string name="setup_title">مرحباً بك في صلاتي</string>
+    <string name="setup_sub">أين تسكن؟ نستخدم بلدك ومدينتك لجلب أوقات الصلاة بدقة، ونحدّثها كل يوم تلقائياً.</string>
+    <string name="country">الدولة</string>
+    <string name="city">المدينة (الأفضل كتابتها بالإنجليزية)</string>
+    <string name="continue_btn">متابعة</string>
+    <string name="err_pick_country">اختر دولتك من القائمة</string>
+    <string name="err_enter_city">اكتب اسم مدينتك</string>
+    <string name="err_city_not_found">لم نجد أوقات الصلاة لهذه المدينة. جرّب كتابتها بطريقة أخرى أو اختر أقرب مدينة كبيرة.</string>
+    <string name="err_network">لا يوجد اتصال بالإنترنت. حاول مرة أخرى.</string>
+    <string name="lang_other">English</string>
+
+    <!-- Notifications -->
+    <string name="notif_title">حان وقت صلاة %1$s</string>
+    <string name="notif_left">الوقت المتبقي للصلاة: %1$s</string>
+    <string name="action_prayed">صليت</string>
+    <string name="action_will_pray">سأصلي</string>
+    <string name="test_tag">(تجربة)</string>
+    <string name="channel_call">نداء الصلاة</string>
+    <string name="channel_call_desc">صوت الأذان عند دخول وقت الصلاة</string>
+    <string name="channel_remind">تذكيرات الصلاة</string>
+    <string name="channel_remind_desc">تذكيرات متكررة حتى تضغط «صليت»</string>
+
+    <!-- Settings -->
+    <string name="language">اللغة</string>
+    <string name="system_default">حسب النظام</string>
+    <string name="location">الموقع</string>
+    <string name="calc_method">طريقة الحساب</string>
+    <string name="asr_calc">حساب وقت العصر</string>
+    <string name="school_standard">الجمهور (الشافعي والمالكي والحنبلي)</string>
+    <string name="school_hanafi">الحنفي</string>
+    <string name="section_general">عام</string>
+    <string name="section_reminders">ذكّرني بصلاة</string>
+    <string name="reminders_hint">بعد دخول وقت كل صلاة يستمر التذكير، ويزداد تكراره كلما اقترب وقت الصلاة التالية، حتى تضغط «صليت».</string>
+    <string name="section_sound">الصوت</string>
+    <string name="sound">صوت الأذان</string>
+    <string name="sound_default">نغمة المنبّه الافتراضية في الهاتف (اختر ملف أذان من الأسفل)</string>
+    <string name="sound_bundled">الأذان المضمّن في التطبيق</string>
+    <string name="choose_file">اختيار ملف صوتي</string>
+    <string name="reset">إعادة الضبط</string>
+    <string name="test_call">جرّب نداء الصلاة الآن</string>
+    <string name="section_reliability">الموثوقية</string>
+    <string name="battery_settings">السماح بالعمل في الخلفية</string>
+    <string name="battery_settings_hint">يمنع الهاتف من إيقاف التذكيرات لتوفير الطاقة</string>
+    <string name="notif_settings">إعدادات الإشعارات</string>
+    <string name="cancel">إلغاء</string>
+</resources>

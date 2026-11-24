@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="method_names">
+        <item>تلقائي (حسب الموقع)</item>
+        <item>رابطة العالم الإسلامي</item>
+        <item>جامعة أم القرى، مكة المكرمة</item>
+        <item>الهيئة المصرية العامة للمساحة</item>
+        <item>الجمعية الإسلامية لأمريكا الشمالية (ISNA)</item>
+        <item>جامعة العلوم الإسلامية، كراتشي</item>
+        <item>منطقة الخليج</item>
+        <item>الكويت</item>
+        <item>قطر</item>
+        <item>رئاسة الشؤون الدينية، تركيا</item>
+        <item>دبي</item>
+        <item>جاكيم، ماليزيا</item>
+        <item>تونس</item>
+        <item>الجزائر</item>
+        <item>وزارة الشؤون الدينية، إندونيسيا</item>
+        <item>المغرب</item>
+        <item>وزارة الأوقاف، الأردن</item>
+        <item>معهد الجيوفيزياء، جامعة طهران</item>
+        <item>اتحاد المنظمات الإسلامية في فرنسا</item>
+        <item>مجلس الشؤون الإسلامية، سنغافورة</item>
+        <item>لجنة رؤية الهلال العالمية</item>
+        <item>الإدارة الدينية لمسلمي روسيا</item>
+        <item>الجماعة الإسلامية في لشبونة</item>
+    </string-array>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salati</string>
+
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+
+    <!-- Main screen -->
+    <string name="next_prayer">Next prayer</string>
+    <string name="in_time">in %1$s</string>
+    <string name="dur_h_m">%1$s h %2$s min</string>
+    <string name="dur_h">%1$s h</string>
+    <string name="dur_m">%1$s min</string>
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh times</string>
+    <string name="prayed_label">Prayed</string>
+    <string name="loading_times">Loading prayer times… (needs internet the first time)</string>
+    <string name="times_unavailable">Couldn’t update prayer times. Check your internet.</string>
+    <string name="updated_ok">Prayer times updated</string>
+    <string name="location_fmt">%1$s, %2$s</string>
+    <string name="hijri_fmt">%1$s %2$s %3$s AH</string>
+    <string name="warn_notif">Notifications are off, so you won’t receive the prayer call.</string>
+    <string name="warn_alarm">Allow exact alarms so the prayer call arrives on time.</string>
+    <string name="warn_battery">Allow background activity so battery saving doesn’t block the prayer call.</string>
+    <string name="allow">Allow</string>
+    <string name="later">Not now</string>
+
+    <!-- Setup screen -->
+    <string name="setup_title">Welcome to Salati</string>
+    <string name="setup_sub">Where do you live? Your country and city are used to get accurate prayer times, which are updated every day.</string>
+    <string name="country">Country</string>
+    <string name="city">City (English spelling works best)</string>
+    <string name="continue_btn">Continue</string>
+    <string name="err_pick_country">Choose your country from the list</string>
+    <string name="err_enter_city">Enter your city</string>
+    <string name="err_city_not_found">We couldn’t find prayer times for this city. Try another spelling, or pick the nearest big city.</string>
+    <string name="err_network">No internet connection. Please try again.</string>
+    <string name="lang_other">العربية</string>
+
+    <!-- Notifications -->
+    <string name="notif_title">It’s time for %1$s</string>
+    <string name="notif_left">Time left to pray: %1$s</string>
+    <string name="action_prayed">I prayed</string>
+    <string name="action_will_pray">I will pray</string>
+    <string name="test_tag">(test)</string>
+    <string name="channel_call">Prayer call</string>
+    <string name="channel_call_desc">The adhan when a prayer time starts</string>
+    <string name="channel_remind">Prayer reminders</string>
+    <string name="channel_remind_desc">Repeated reminders until you tap “I prayed”</string>
+
+    <!-- Settings -->
+    <string name="language">Language</string>
+    <string name="system_default">System default</string>
+    <string name="location">Location</string>
+    <string name="calc_method">Calculation method</string>
+    <string name="asr_calc">Asr calculation</string>
+    <string name="school_standard">Standard (Shafi’i, Maliki, Hanbali)</string>
+    <string name="school_hanafi">Hanafi</string>
+    <string name="section_general">General</string>
+    <string name="section_reminders">Remind me for</string>
+    <string name="reminders_hint">After a prayer time starts, Salati keeps reminding you, more often as the next prayer gets closer, until you tap “I prayed”.</string>
+    <string name="section_sound">Sound</string>
+    <string name="sound">Adhan sound</string>
+    <string name="sound_default">Phone’s default alarm sound (choose an adhan file below)</string>
+    <string name="sound_bundled">Adhan built into the app</string>
+    <string name="choose_file">Choose audio file</string>
+    <string name="reset">Reset</string>
+    <string name="test_call">Test the prayer call now</string>
+    <string name="section_reliability">Reliability</string>
+    <string name="battery_settings">Allow background activity</string>
+    <string name="battery_settings_hint">Stops the phone from pausing reminders to save battery</string>
+    <string name="notif_settings">Notification settings</string>
+    <string name="cancel">Cancel</string>
+</resources>
